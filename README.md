@@ -10,4 +10,4 @@ The results of this study is published at: https://doi.org/10.1007/s10548-021-00
 - [EEGLAB][eeglab-identifier]
 
 [eeglab-identifier]: https://github.com/sccn/eeglab
-[hmm-identifier]: https://www.thomaskoenig.ch/index.php/work/software/microstates-in-eeglab
+[ms-identifier]: https://www.thomaskoenig.ch/index.php/work/software/microstates-in-eeglab
